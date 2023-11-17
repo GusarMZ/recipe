@@ -12,4 +12,4 @@ Local change try #2
 - Sugar
 I just love **Chocolate Cake**
 It's my favourite *Cake*
-![Beautiful Chocolate Cake!](C:\Users\gusar\OneDrive\Desktop\Toolbox\recipe.jpg "Chocolate Cake")
+![Beautiful Chocolate Cake!](C:\Users\gusar\OneDrive\Desktop\Toolbox\recipe\recipe.jpg "Chocolate Cake")
